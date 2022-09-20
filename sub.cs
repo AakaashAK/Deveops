@@ -1,3 +1,3 @@
-public int sub(int a,int b){
-  int c=a-b
+public sub(int a,int b){
+  int c=a-b;
 }  
